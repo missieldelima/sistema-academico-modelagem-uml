@@ -25,7 +25,7 @@
 
 ### Modelo conceitual
 
-![myImage](https://github.com/devsuperior/aulao001/raw/master/modelo-conceitual.png)
+![modelo-conceitual](https://user-images.githubusercontent.com/109005976/207045424-82b30918-a3a2-4bff-b200-3bad40388227.png)
 
 ### Instância
 
