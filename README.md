@@ -18,8 +18,8 @@
 - Especificar uma instância do modelo
 
 ## Pré-requisitos
+- Conhecimento em tipos estruturados (ou classes) e modelagem de dados
 
-- Para melhor aproveitamento da aula, é desejável já ter conhecimento básico de tipos estruturados (ou classes) e modelagem de dados
 
 ## Diagramas
 
